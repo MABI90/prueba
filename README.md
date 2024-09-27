@@ -1,3 +1,5 @@
+HELLO I AM MARILYN I AM PREPARING MY FIRST COMMINT SINCE GITHUB
+LANGUAGES ARE MI NICE HOBBIES
 ## Hobbies
 - Dancing: ...
 languages: english
@@ -5,6 +7,8 @@ spanish
 french
 german
 swidish
+scotish
+italian
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
